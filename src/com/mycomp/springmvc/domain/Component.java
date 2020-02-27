@@ -17,4 +17,5 @@ public class Component {
                 ", component_price=" + component_price +
                 '}';
     }
+
 }
